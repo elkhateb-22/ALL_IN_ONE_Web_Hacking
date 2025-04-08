@@ -1,2 +1,1 @@
-# Web-Security-labs
-
+# Web Application Security
