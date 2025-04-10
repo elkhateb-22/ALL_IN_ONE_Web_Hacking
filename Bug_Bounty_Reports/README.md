@@ -1,6 +1,6 @@
 # Vulnerability Reports
 
-This repository contains documented findings and reports related to various security vulnerabilities. Below is a summary of the vulnerabilities covered:
+This repository contains documented findings and reports . Below is a summary of the vulnerabilities covered:
 
 | Vulnerability Name                           | Description                                                                                                                                   |
 | -------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
