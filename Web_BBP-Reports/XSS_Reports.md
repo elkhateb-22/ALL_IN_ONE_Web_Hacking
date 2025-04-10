@@ -1,19 +1,19 @@
-Top XSS Writeups
-1. [link](https://tinyurl.com/mpd6jef9) - 
-2. [link](https://tinyurl.com/54t9v2wm) - 
+# Top XSS Writeups
+
+1. [link](https://tinyurl.com/mpd6jef9) -
+2. [link](https://tinyurl.com/54t9v2wm) -
 3. [link](https://tinyurl.com/5de25jct) -
-4. [link](https://tinyurl.com/yztn3mc3) - 
-5. [link](https://medium.com/@Jh0n_0x/how-i-found-a-reflected-xss-at-nasa-cc8b7584dee7) - 
-6. [link](https://medium.com/@deadoverflow/how-do-you-actually-find-bugs-part-2-5d6930edeee7) - 
-7. [link](https://medium.com/@katmaca2014/pdf-upload-leading-to-stored-xss-f712326705ee) - 
+4. [link](https://tinyurl.com/yztn3mc3) -
+5. [link](https://medium.com/@Jh0n_0x/how-i-found-a-reflected-xss-at-nasa-cc8b7584dee7) -
+6. [link](https://medium.com/@deadoverflow/how-do-you-actually-find-bugs-part-2-5d6930edeee7) -
+7. [link](https://medium.com/@katmaca2014/pdf-upload-leading-to-stored-xss-f712326705ee) -
 8. [link](https://medium.com/@rodriguezjorgex/escalating-dom-xss-to-stored-xss-eb6f3a669af3) -
-9. [link](https://melguerdawi.medium.com/xss-steal-cookies-7589818118a8) - 
-10. [link](https://tinyurl.com/ysm9ddxs) - 
-11. [link](https://melguerdawi.medium.com/from-self-xss-to-account-take-over-ato-812c194b61cf) - 
-12. [link](https://tinyurl.com/4hukx379) - 
+9. [link](https://melguerdawi.medium.com/xss-steal-cookies-7589818118a8) -
+10. [link](https://tinyurl.com/ysm9ddxs) -
+11. [link](https://melguerdawi.medium.com/from-self-xss-to-account-take-over-ato-812c194b61cf) -
+12. [link](https://tinyurl.com/4hukx379) -
 13. [link](https://xalgord.medium.com/stored-xss-filter-bypass-in-the-skills-section-7bf5e33c8ace)**
 14.
-
 
 <https://infosecwriteups.com/xss-heres-how-i-got-my-first-bounty-4f64785fe6f8>
 <https://medium.com/@nagashygaballah/akamai-waf-bypass-lead-to-discover-30-xss-bugs-bea0f8be1dd4>
@@ -22,6 +22,7 @@ Top XSS Writeups
 <https://medium.com/@0xmekky/how-i-got-cross-site-scripting-xss-reflected-using-an-unknown-technique-ca4984827465>
 <https://medium.com/@kumawatabhijeet2002/day-28-of-30-day-30-vulnerabilities-dom-based-xss-e7bfadc56b2f>
 <https://medium.com/@spideyyy/understanding-window-postmessage-and-its-xss-risks-5a96bcd90428>
+
 1. <https://blog.it-securityguard.com/bugbounty-sleeping-stored-google-xss-awakens-a-5000-bounty/>
 2. <http://blog.innerht.ml/rpo-gadgets/>
 3. <https://whitton.io/articles/uber-turning-self-xss-into-good-xss/>
@@ -66,10 +67,6 @@ Top XSS Writeups
 42. <https://s1gnalcha0s.github.io/dspl/2018/03/07/Stored-XSS-and-SSRF-Google.html>
 43. <https://medium.com/@mrityunjoy/stored-xss-on-snapchat-5d704131d8fd>
 44. <https://blog.doyensec.com/2020/04/30/polymorphic-images-for-xss.html>
-
-
-
-
 
 Top XSS reports from HackerOne:
 
@@ -213,7 +210,7 @@ Top XSS reports from HackerOne:
 138. [Reflected XSS online-store-git.shopifycloud.com](https://hackerone.com/reports/1410459) to Shopify - 97 upvotes, $3500
 139. [Blind XSS on Twitter's internal Jira panel at ████ allows exfiltration of hackers reports and other sensitive data](https://hackerone.com/reports/1369674) to X (Formerly Twitter) - 97 upvotes, $0
 140. [#2 XSS on watchdocs.indriverapp.com](https://hackerone.com/reports/2015074) to inDrive - 97 upvotes, $0
-141. [[Meetup][World ID][OIDC] Insufficient Filtering of "state" Parameter in Response Mode form_post leads to XSS and ATO](https://hackerone.com/reports/2515808) to Tools for Humanity - 97 upvotes, $0
+141. [[Meetup] [World ID] [OIDC] Insufficient Filtering of "state" Parameter in Response Mode form_post leads to XSS and ATO](https://hackerone.com/reports/2515808) to Tools for Humanity - 97 upvotes, $0
 142. [Reflected cross site scripting (XSS) attacks Reflected XSS attacks,](https://hackerone.com/reports/1799197) to MTN Group - 97 upvotes, $0
 143. [Reflected XSS on https://make.wordpress.org via 'channel' parameter](https://hackerone.com/reports/659419) to WordPress - 96 upvotes, $0
 144. [Reflected XSS in pubg.com](https://hackerone.com/reports/751870) to PUBG - 96 upvotes, $0
