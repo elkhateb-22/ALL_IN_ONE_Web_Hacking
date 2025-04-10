@@ -9,7 +9,7 @@ Study vulnerability reports and bug bounty write-ups:
 2. Focus on the methodology used to discover and exploit xxx.
 3. Extract patterns, techniques, and tools used by experts.
 
----------
+ --------------------------------------------------------
 
 1. <https://nored0x.github.io/penetration%20testing/writeups-Bug-Bounty-hackrone/#idor>
 2. <https://medium.com/@saeidmicro/logic-bug-easy-privilege-escalation-7d3878816395>
@@ -133,7 +133,7 @@ https://ysamm.com/?p=60
 <https://prateeksrivastavaa.medium.com/zomatoooo-idor-in-saved-payments-f8c014879741> => IDOR saved payments
 <https://medium.com/@pranshux0x/account-takeover-on-8-years-old-public-program-c0c0a30cfdd2> => verification bypass + ATO
 
------
+ --------------------------------------------------------
 
 1. [IDOR to update folder name of other user](https://hackerone.com/reports/587687)
 2. [Metadata leakage via IDOR](https://hackerone.com/reports/762707)

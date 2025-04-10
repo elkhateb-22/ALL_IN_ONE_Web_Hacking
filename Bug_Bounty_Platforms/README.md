@@ -1,14 +1,14 @@
 # Top Bug Bounty Platforms
-- https://github.com/disclose/bug-bounty-platforms
-- https://github.com/djadmin/awesome-bug-bounty
 
+- <https://github.com/disclose/bug-bounty-platforms>
+- <https://github.com/djadmin/awesome-bug-bounty>
 
 | No. | Platform           | LINK                                                                 | Description                                                                 |
 |-----|--------------------|----------------------------------------------------------------------|-----------------------------------------------------------------------------|
 | 1   | Hackerone          | [LINK](https://hackerone.com/bug-bounty-programs) | A leading bug bounty platform connecting organizations with ethical hackers.|
 | 2   | Bugcrowd           | [LINK](https://bugcrowd.com/engagements)          | Offers crowdsourced security testing and bug bounty programs globally.     |
 | 3   | YesWeHack          | [LINK](https://yeswehack.com/programs)            | Europe's fastest-growing bug bounty platform with global reach.            |
-| 4   | Bug Bounty saudia  | [LINK](https://bugbounty.sa/leaderboard)          | Saudi Arabia's national bug bounty program for local cybersecurity talent. 
+| 4   | Bug Bounty saudia  | [LINK](https://bugbounty.sa/leaderboard)          | Saudi Arabia's national bug bounty program for local cybersecurity talent. |
 | 5   | Intigriti          | [LINK](https://www.intigriti.com/)                | A European bug bounty platform offering tailored security solutions.       |
 | 6   | Synack             | [LINK](https://www.synack.com/)                   | A premium bug bounty platform with a focus on continuous security testing.|
 | 7   | Hackenproof        | [LINK](https://hackenproof.com/)                  | A blockchain-focused bug bounty platform for decentralized projects.       |
